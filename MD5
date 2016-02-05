@@ -1,0 +1,16 @@
+4170477c823d0fb70baf8bdc40cbdfbd *DESCRIPTION
+daf1a3bf6f9f14eef72f7e98b9b1d70c *NAMESPACE
+9349f07e859c651600d38a841d04bcc9 *R/DRaWR.R
+1b30e07ec2e4af38c93b1ebed71b8a3c *data/transmat.RData
+da28f4a47779913ca6adac435a85f385 *inst/extdata/output_sample.uni.sample.undir.weight.type.50.1e-04.0.7.base
+d49ffa58f333d1659c17f2cb0c024806 *inst/extdata/output_sample.uni.sample.undir.weight.type.50.1e-04.1.1.0.7.sample.query.1.rwr
+5b165e596a4fa71c20c57143f8d5978d *inst/extdata/output_sample.uni.sample.undir.weight.type.50.1e-04.1.1.0.7.sample.setlist.stats
+01c6765677a79fe942a6d132b104c964 *inst/extdata/sample.edge
+22ee71b53684e60e77fc79b42c89ba12 *inst/extdata/sample.query
+c705540dc46d8e96b4fed78dcedfb4e1 *inst/extdata/sample.setlist
+5ac31987c3a92c224f5be5bc9d426296 *inst/extdata/sample.uni
+2f141dbbec24b7c5ec9da3cab6e899d2 *man/DRaWR.Rd
+ba07636857cc09815e440ce5ddea9751 *man/RWR.Rd
+f4136e3e0bf1b3fcd24e36d0dff2cc49 *man/threeCol2MaxMat.Rd
+732f68bb8542750d0c19d38af7980fac *man/threeCol2listMat.Rd
+1e8a065a4cdfe6b9a29c4031d22ba587 *man/transmat.Rd
